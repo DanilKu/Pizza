@@ -1,0 +1,153 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+.delivery {
+
+}
+
+.dodo {
+    text-decoration: none;
+    color: black;
+    font-size: 35;
+    margin-left: 60px;
+}
+
+.delivery {
+    text-decoration: none;
+    margin-left: 100px;
+    font-size: 20;
+    color: black;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 20px;
+}
+.moscow {
+    color: #FF7A00;
+
+}
+.dodo::before{
+    content:"";
+}
+.nomer {
+    text-decoration: none;
+    color:black;
+    font-size: 25;
+    margin-left: 5%;    
+}
+
+.vhod {
+    text-decoration: none;
+    margin-left: 5%;
+    color: white;
+    background-color: #FF7A00;
+    padding: 10px 25px 10px 25px;
+    border-radius: 30px;
+}
+
+main {
+    border-top: 2px solid #FF7A00;
+    margin-top: 20px;
+}
+
+.chza {
+    margin-left: 60px;
+    font-size: 25;
+}
+
+.tov {
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+}
+
+.pep {
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    padding: 10px 25px 10px 25px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px lightgray;
+    
+}
+.pep2 {
+    margin-left: 100px;
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    background-color: white;
+    padding: 10px 25px 10px 25px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.pep3 {
+    margin-left: 100px;
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    background-color: white;
+    padding: 10px 25px 10px 25px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.pza {
+    margin-left: 60px;
+    font-size: 25;
+}
+.pizza {
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+}
+.pz1 {
+    width: 220px;
+    height: 220px;
+}
+.pz2 {
+    width: 220px;
+    height: 220px;
+    margin-left:70px;
+}
+.pz3 {
+    width: 220px;
+    height: 220px;
+    margin-left:70px;
+}
+
+.nazv {
+    display: flex;
+}
+.pz1t {
+    text-decoration: none;
+    color: black;
+    font-size: 20;
+    margin-left: 210px;
+}
+.pz2t {
+    text-decoration: none;
+    color: black;
+    font-size: 20;
+    margin-left: 170px;
+}
+.pz3t {
+    text-decoration: none;
+    color: black;
+    font-size: 20;
+    margin-left: 170px;
+}
+
+.pz1p {
+    text-decoration: none;
+    color: #797878;
+    margin-left: 210px;
+    text-align: center;
+}
